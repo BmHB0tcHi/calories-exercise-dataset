@@ -1,2 +1,2 @@
 # calories-exercise-dataset
-Correlations between calories burnt, exercise and body type.
+Exploring correlations between calories burnt, exercise and body type.
